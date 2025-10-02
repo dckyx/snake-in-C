@@ -45,7 +45,6 @@ gcc Main.c -o snake -I/opt/homebrew/include -L/opt/homebrew/lib -lncurses
 
 - `Main.c` — game loop, rendering, input handling
 - `headerf.h` — shared declarations/macros
-- `.gitignore`, `Readme.txt` — housekeeping / basic usage
 
 ## Notes / Tips
 
